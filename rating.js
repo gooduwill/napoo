@@ -19,7 +19,7 @@ for(let i=0;i<numbers.length;i++){
     console.log(numbers[i])
 }
 console.log(numbers); */
-const numbers=[10,11,12,13,15];
+const numbers=[10,11,12,13,15,16];
 numbers.forEach((ele)=>{
     console.log(ele)
 
